@@ -1,0 +1,3 @@
+Program Compiles...hashmap creation seems to work without crashing. Does not find any word in the query in any of our data sets -- problem with the search function.
+ Valgrind tests: memory leak of 84 blocks and over 5000 errors.
+ No report submitted and no code documentation. Grade: 30/60
