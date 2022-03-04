@@ -1,0 +1,40 @@
+# Grading Breakdown
+
+* Level (up to)
+  
+  
+# Deductions
+
+* General Deductions
+
+* Simulation
+
+     
+* OOP Design 
+
+
+* Initialization
+
+  
+## Level 0
+
+* Mice
+
+  
+## Level 1
+
+* Cats
+
+  
+## Level 2
+
+* Cats
+
+  
+## Level 3
+
+* Zombie Cats
+
+## Level 4
+
+* New Creature
