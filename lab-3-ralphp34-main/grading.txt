@@ -1,0 +1,22 @@
+# Grading Breakdown
+
+* Part 1 (30 points)
+* Part 2 (70 points)
+  * sub.c (30 points)
+  * freq.c (40 points)
+  
+# Deductions
+
+ 
+* Part 1 (30/30)
+  
+* Part 2 (70/70)
+
+  * freq (30/30)
+    
+  * sub (40/40)
+    
+
+# Total
+
+100 / 100
