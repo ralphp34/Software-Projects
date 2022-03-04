@@ -1,0 +1,11 @@
+# Grading Breakdown
+
+* lab-7
+
+## Comments
+
+* -20 Encrypt/Decrypt does not work consistently
+
+## Grade
+
+80
